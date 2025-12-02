@@ -1,5 +1,3 @@
-# Eitt1.github.io
-
 
     <div class="policy-container">
         <h1>Privacy Policy</h1>
